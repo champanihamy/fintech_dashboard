@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:interview_test/Services/navigation_service.dart';
+import 'package:interview_test/services/navigation_service.dart';
 import 'package:interview_test/screens/home_screen.dart';
 
 void main() {
